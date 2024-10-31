@@ -1,0 +1,20 @@
+{
+  "name": "nl7",
+  "version": "1.0.0",
+  "description": "Development scaffold with Yarn, Vite, TypeScript, and Phaser 3.86",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.86.0"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9",
+    "typescript": "^4.5.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
